@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...feel free to connect via mail mukeshkumarchoudhary05@gmail.com
+- 📫 feel free to connect via mail mukeshkumarchoudhary05@gmail.com
 
 <!---
 md2498/md2498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
