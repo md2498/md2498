@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @md2498
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning spring boot
+- 🌱working on liferay framwork.
 - 💞️ I’m looking to collaborate on ...
 - 📫 feel free to connect via mail mukeshkumarchoudhary05@gmail.com
 
